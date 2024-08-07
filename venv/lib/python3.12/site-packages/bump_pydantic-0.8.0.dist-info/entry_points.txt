@@ -1,0 +1,2 @@
+[console_scripts]
+bump-pydantic = bump_pydantic.main:entrypoint
